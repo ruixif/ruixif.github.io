@@ -15,8 +15,3 @@ I am also an amateur video-game player focusing on action games appear to be dif
 such as [Sekiro](https://www.sekirothegame.com/content/atvi/sekiro/web/en/home.html), [Cuphead](http://www.cupheadgame.com/),
 [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls), [Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight).
 
-This page is powered by [Jekyll Now](https://github.com/barryclark/jekyll-now). 
-
-### Credit
-
-This page is powered by [github pages](https://docs.github.com/categories/github-pages-basics/). 
