@@ -1,7 +1,3 @@
-## Welcome to my page
-
-### About me
-
 Welcome to my home page!
 
 My name is Ruixi Fan, currently working as an engineer at [Etsy](https://www.etsy.com/), focusing on Machine Learning 

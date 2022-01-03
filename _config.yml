@@ -1,7 +1,8 @@
-theme: jekyll-theme-cayman
+theme: minima
 
 # Name of your site (displayed in the header)
 name: Mizuki
+title: Mizuki
 
 # Short bio or description (displayed in the header)
 description: Random, non-professional thoughts
