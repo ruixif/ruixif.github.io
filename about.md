@@ -14,7 +14,9 @@ and I joined Typeface through the acquisition. Before joining Treat, I worked as
 
 Prior to this job, I was a graduate student at Carnegie Mellon University, studying spectroscopy's application and
 quantum-chemistry modeling on (*bio*)-metallocatalysis. My publication list can be found at
-[Google Scholar](https://scholar.google.com/citations?user=4m5guE0AAAAJ). I have a long-term interest in heterogeous 
+[Google Scholar](https://scholar.google.com/citations?user=4m5guE0AAAAJ). 
+
+I have a long-term interest in heterogeous 
 catalysis and advanced materials with d/f-block metals. I am building a proof of concept on leveraging large language 
 model to discover functional materials (e.g. room-temperature super-conductor under ambient pressure). 
 
