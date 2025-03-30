@@ -5,10 +5,12 @@ permalink: /about/
 ---
 
 
-My name is Ruixi Fan, currently working as a machine-learning engineer at [Treat Technologies](https://www.trytreat.io/), 
-focusing on creating performant advertisement content through large, generative AI system. Previously, I worked as an 
-engineer at [Etsy](https://www.etsy.com/), focusing on system engineering for machine learning applications, including 
-model training and inference pipeline, streaming data processing and experimentation platform.  
+My name is Ruixi Fan, currently working as a machine-learning engineer at [Typeface](https://www.typeface.ai/). My current research interest is on building 
+intelligent system for complexed image tasks, including but not limited to image creation, editing, retouching, etc. 
+
+Before joining Typeface, I worked at [Treat Technologies](https://www.trytreat.io/), 
+focusing on creating performant advertisement content through large, generative AI system. Treat's main technical assets were acquired by Typeface in 2024,
+and I joined Typeface through the acquisition. Before joining Treat, I worked as an engineer at [Etsy](https://www.etsy.com/), focusing on system engineering for machine learning applications, including model training and inference pipeline, streaming data processing and experimentation platform.  
 
 Prior to this job, I was a graduate student at Carnegie Mellon University, studying spectroscopy's application and
 quantum-chemistry modeling on (*bio*)-metallocatalysis. My publication list can be found at
