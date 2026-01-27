@@ -4,5 +4,9 @@ theme: minima
 name: Mizuki
 title: Mizuki
 
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
 # Short bio or description (displayed in the header)
 description: Random, non-professional odds and ends
